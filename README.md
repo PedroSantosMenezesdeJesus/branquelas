@@ -1,6 +1,6 @@
 # branquelas
 
-Integrantes: Kevin Novais Bezerra, Pedro Santos Menezes de Jesus
+<h3>Integrantes: Kevin Novais Bezerra, Pedro Santos Menezes de Jesus<h3>
 
 <h3>- Tema:</h3>
 
