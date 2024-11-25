@@ -7,10 +7,10 @@
 <h3>- Tema:</h3>
 A cena baseia-se no filme “As Branquelas” mais especificamente na cena do carro em que Latrell canta a música "Thousand Miles" e logo após isso leva Tiffany (Marcus disfarçado) ao restaurante.
 
-- Proposta do jogo:<br>
+- Proposta do jogo:<Br>
 A proposta da nossa cena é fazer uma cena de corrida e que você controlando o carro deve chegar no restaurante em um tempo determinado, com ao fundo tocando a música "Thousand Miles" e para chegar há tempo você deve desviar de outros carros e pessoas e pegar o caminho correto
 
-- Protagonista:<br>
+- Protagonista:<Br>
 O protagonista é o Latrell ele é careca, moreno, alto
 
 - História:<Br>
@@ -21,3 +21,5 @@ A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvo
 
 - Música:<Br>
 A Thousand Miles - Vanessa Carlton
+
+
