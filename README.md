@@ -6,3 +6,5 @@
 <br>
 <h3>- Tema:</h3>
 A cena baseia-se no filme “As Branquelas” mais especificamente na cena do carro em que Latrell canta a música Thousand Miles 
+
+- Proposta do jogo:<br>
