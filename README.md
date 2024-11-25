@@ -18,3 +18,5 @@ Você como Latrell fez uma reserva em um restaurante e está levando uma companh
 
 - Cenário:<Br>
 A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, pessoas andando, várias ruas. 
+
+- Música:<Br>
