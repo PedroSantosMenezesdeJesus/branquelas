@@ -24,4 +24,15 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Explicação do Código</h3>
 
+<h3>Assets usados</h3>
+
+Adventure Female (Free)
+
+FREE - Modular Character - Fantasy RPG Human Male
+
+Race game car, BMW Shark
+
+SimplePoly City - Low Poly Assets
+![link].(https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899)
+
 
