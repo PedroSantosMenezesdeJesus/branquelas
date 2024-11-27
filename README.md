@@ -17,7 +17,7 @@ Os protagonistas são Latrell e Marcus que está disfarçado de Tiffany Wilson u
 Você como Latrell fez uma reserva em um restaurante e está levando uma companhia e não quer deixá-la esperando assim entrando no carro e dirijindo ao som de "A Thousand a Miles" até o restaurante, tendo que fazer desvios pois o caminho original está interditado.
 
 - Cenário:<Br>
-A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, pessoas andando, várias ruas.
+A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, várias ruas.
 
 - Música:<Br>
 A Thousand Miles - Vanessa Carlton
