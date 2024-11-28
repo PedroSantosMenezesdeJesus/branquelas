@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Collision : MonoBehaviour
+public class Collisao : MonoBehaviour
 {
     public string sceneName;
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("obstaculo"))
+        if (other.gameObject.CompareTag("jogador"))
         {
             SceneManager.LoadScene(sceneName);
         }
