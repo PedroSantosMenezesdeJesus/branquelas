@@ -10,6 +10,9 @@
 - Cena:<br>
 Possui uma tonalidade mais escura por acontecer a noite, cores com maior destaque são o rosa para representar a feminilidade, o preto do terno e do carro para demonstrar confiança, e o amarelo por conta do cachorro, os personagens presentes são Latrell e Marcus disfarçado e ambos escutam "A Thousand Miles"
 
+- Teoria das Cores:<br>
+Possui muitas cores vividas para simbolizar a vida de patricinha, outra cor presente é o branco simbolizando status e poder e o preconceito sofrido
+
 - Proposta da cena:<br>
 A proposta da nossa cena é fazer o player controlando o carro chegar ao restaurante, tendo que descobrir o caminho correto e desviando de carros pelo caminho, com ao fundo tocando a música "A Thousand Miles".
 
