@@ -5,7 +5,7 @@
 <h3>Série: 2º Programação de Jogos Digitais</h3>
 <br>
 <h3>- Tema:</h3>
-A cena é uma recriação de uma pequena parte do filme “As Branquelas”, o filme em questão é de comédia/crime, conta a história de dois irmãos agentes do FBI, Marcus e Kevin Copeland que acidentalmente evitam que bandidos sejam presos e como punição escoltam duas herdeiras, nisso as duas se recusam a ajudar, por isso Marcus e Kevin se disfarçam de duas mulheres loiras. A cena inspirada na parte do carro onde Latrell canta a música "A Thousand Miles".
+"As Branquelas" é um filme de comédia e crime que conta a história dois policiais negros irmãos muito  atrapalhados chamados Kevin e Marcus Coperland que devem proteger duas patricinhas e investigar um suspeito de sequestro de garotas,
 
 - Proposta da cena:<br>
 A proposta da nossa cena é fazer o player controlando o carro chegar ao restaurante, tendo que descobrir o caminho correto e desviando de carros pelo caminho, com ao fundo tocando a música "A Thousand Miles".
