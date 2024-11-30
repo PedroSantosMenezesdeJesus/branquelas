@@ -5,7 +5,7 @@
 <h3>Série: 2º Programação de Jogos Digitais</h3>
 <br>
 <h3>- Tema:</h3>
-"As Branquelas" é um filme de comédia e crime que conta a história dois policiais negros irmãos muito  atrapalhados chamados Kevin e Marcus Coperland que devem proteger duas patricinhas e investigar um suspeito de sequestro de garotas,
+"As Branquelas" é um filme de comédia e crime que conta a história dois policiais negros irmãos muito  atrapalhados chamados Kevin e Marcus Coperland que devem proteger duas patricinhas e investigar um suspeito de sequestro de garotas,os dois após um acidente leve de carro,por conta disso eles se disfarçam das irmãs wilons vulgo as patricinhas, eles fazem amizade com as amigas delas e aprendem como é estar no lugar de uma mulher, isso os ajuda a encontrar o verdadeiro culpado, contando com o personagem mais cômico do filme o Latrell
 
 - Proposta da cena:<br>
 A proposta da nossa cena é fazer o player controlando o carro chegar ao restaurante, tendo que descobrir o caminho correto e desviando de carros pelo caminho, com ao fundo tocando a música "A Thousand Miles".
