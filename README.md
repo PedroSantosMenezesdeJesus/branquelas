@@ -27,24 +27,24 @@ Você como Latrell fez uma reserva em um restaurante e está levando uma companh
 - Cenário:<Br>
 A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, tendo diferentes caminhos para seguir só que por conta de acidentes eles estão interditados.
 
-- Música:<Br>
+- Música:<br>
 A Thousand Miles - Vanessa Carlton
 
 <h3>Proposta da Cena</h3>
 
-esboço dos personagens
+- esboço dos personagens:<br>
 
 ![image](https://github.com/user-attachments/assets/a76bf2df-8206-4e4b-8ddc-bc5daeb05092)
 
 ![image](https://github.com/user-attachments/assets/64d0924b-9967-4954-adf9-2ef08d2072de)
 
-esboço da cena
+- esboço da cena:<br>
 
 ![image](https://github.com/user-attachments/assets/28cbffb5-0f8b-40ec-8c21-aed0ab383083)
 
 <h3>Explicação do Código</h3>
 
-<br> Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
+- <br> Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
 ![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
 
 ![image](https://github.com/user-attachments/assets/06f02246-6789-4480-862c-328699bb38f3)
