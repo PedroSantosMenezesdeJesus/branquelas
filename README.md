@@ -32,7 +32,13 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Proposta da Cena</h3>
 
+esboço dos personagens
 
+![image](https://github.com/user-attachments/assets/a76bf2df-8206-4e4b-8ddc-bc5daeb05092)
+
+esboço da cena
+
+![image](https://github.com/user-attachments/assets/28cbffb5-0f8b-40ec-8c21-aed0ab383083)
 
 <h3>Explicação do Código</h3>
 
