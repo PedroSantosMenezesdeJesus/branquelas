@@ -33,6 +33,10 @@ A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvo
 - Música:<Br>
 A Thousand Miles - Vanessa Carlton
 
+<h3>Proposta da Cena</h3>
+
+
+
 <h3>Explicação do Código</h3>
 
 <br> Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
