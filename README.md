@@ -95,4 +95,4 @@ Lowpoly Dinner Table
 video do jogo
 [link](https://drive.google.com/file/d/1glqpTzwGarvE6oZruqga1ppyKNdGWTkr/view?usp=sharing)
 Nosso Jogo
-[link](https://drive.google.com/drive/folders/1J-AF9W11mDAoCS-jlWUDCfGAir-W5C7l)
+[link](https://drive.google.com/file/d/1J1WHvFNGHTvmPVexPrZ8eObi6xjUDIkN/view?usp=drivesdk)
