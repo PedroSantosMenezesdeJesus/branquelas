@@ -45,15 +45,17 @@ A Thousand Miles - Vanessa Carlton
 
 ![image](https://github.com/user-attachments/assets/a0397699-17d9-4bca-b7c9-b5412cbace4e)
 
-<br>a
+<br> na classe Obstaculo os atributos são Vector3 Mover, GameObject Objeto e String Nome,  depois atribuimos a um constructor e criamos os metodos de movimentação para os varios obstaculos
 ![image](https://github.com/user-attachments/assets/19a1e172-2e82-49dd-b733-9b8a8deb9574)
 
 ![image](https://github.com/user-attachments/assets/8c86aeaf-7a3f-4627-99e0-bf7fe5a7e643)
 
+<br> na classe JogoObstaculo criamos variaveis que atribuimos a os atributos da classe Obstaculo, e variaveis que herdavem da classe Obstaculo, depois atribuimos os valores para cada variavel e como ela funcionariam para as variaveis que herdavam da classe Obstaculo, no Uptade chamamos os metodos e os atribuimos as variaveis, e criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/ca343c8b-f337-4d2c-8173-b6fc90b6069a)
 
 ![image](https://github.com/user-attachments/assets/357473bc-5bb9-48b8-b044-47a683f7ca68)
 
+<br> a
 ![image](https://github.com/user-attachments/assets/b5a65cf2-f60b-4fdd-936e-71dc7ebe01fa)
 
 ![image](https://github.com/user-attachments/assets/25cc4377-b62d-410d-b694-4673d099a493)
