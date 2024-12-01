@@ -35,16 +35,17 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Explicação do Código</h3>
 
-criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
+<br> Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
 ![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
 
 ![image](https://github.com/user-attachments/assets/06f02246-6789-4480-862c-328699bb38f3)
 
-criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variaveis que conrespondiam a os atributos da classe Player, e uma variavel que herdava do Player, chamamos as variaveis para colocarmos valores nelas e atribuimos cada varialvel para seu atributo conrespondente, no Uptade chamamos os metodos e os atribuimos as variaveis
+<br> Criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variaveis que conrespondiam a os atributos da classe Player, e uma variavel que herdava do Player, chamamos as variaveis para colocarmos valores nelas e atribuimos cada varialvel para seu atributo conrespondente, no Uptade chamamos os metodos e os atribuimos as variaveis. Criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/906e37ad-f947-4f0d-b053-8eda3a9a0d88)
 
 ![image](https://github.com/user-attachments/assets/a0397699-17d9-4bca-b7c9-b5412cbace4e)
 
+<br>a
 ![image](https://github.com/user-attachments/assets/19a1e172-2e82-49dd-b733-9b8a8deb9574)
 
 ![image](https://github.com/user-attachments/assets/8c86aeaf-7a3f-4627-99e0-bf7fe5a7e643)
