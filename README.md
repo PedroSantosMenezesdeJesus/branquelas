@@ -35,6 +35,9 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Explicação do Código</h3>
 
+[codigo classe player](![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
+
+
 <h3>Assets usados</h3>
 
 Adventure Female (Free)
