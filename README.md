@@ -67,7 +67,7 @@ A Thousand Miles - Vanessa Carlton
 ![image](https://github.com/user-attachments/assets/3135dbf0-1508-43d8-a1f6-45df7304250b)
 
 
-<h3>Diagrama velhos </h3>
+<h3>Diagrama velho </h3>
 
 ![image](https://github.com/user-attachments/assets/f567b11d-7e8f-4afe-9650-a09beb699c5a)
 
