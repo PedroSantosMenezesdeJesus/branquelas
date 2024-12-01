@@ -44,34 +44,34 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Explicação do Código</h3>
 
-- <br> Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
+- Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuimos a um constructor e criamos os metodos de movimento e rotação
 ![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
 
 ![image](https://github.com/user-attachments/assets/06f02246-6789-4480-862c-328699bb38f3)
 
-<br> Criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variaveis que conrespondiam a os atributos da classe Player, e uma variavel que herdava do Player, chamamos as variaveis para colocarmos valores nelas e atribuimos cada varialvel para seu atributo conrespondente, no Uptade chamamos os metodos e os atribuimos as variaveis. Criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
+- Criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variaveis que conrespondiam a os atributos da classe Player, e uma variavel que herdava do Player, chamamos as variaveis para colocarmos valores nelas e atribuimos cada varialvel para seu atributo conrespondente, no Uptade chamamos os metodos e os atribuimos as variaveis. Criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/906e37ad-f947-4f0d-b053-8eda3a9a0d88)
 
 ![image](https://github.com/user-attachments/assets/a0397699-17d9-4bca-b7c9-b5412cbace4e)
 
-<br> na classe Obstaculo os atributos são Vector3 Mover, GameObject Objeto e String Nome,  depois atribuimos a um constructor e criamos os metodos de movimentação para os varios obstaculos
+- Na classe Obstaculo os atributos são Vector3 Mover, GameObject Objeto e String Nome,  depois atribuimos a um constructor e criamos os metodos de movimentação para os varios obstaculos
 ![image](https://github.com/user-attachments/assets/19a1e172-2e82-49dd-b733-9b8a8deb9574)
 
 ![image](https://github.com/user-attachments/assets/8c86aeaf-7a3f-4627-99e0-bf7fe5a7e643)
 
-<br> na classe JogoObstaculo criamos variaveis que atribuimos a os atributos da classe Obstaculo, e variaveis que herdavem da classe Obstaculo, depois atribuimos os valores para cada variavel e como ela funcionariam para as variaveis que herdavam da classe Obstaculo, no Uptade chamamos os metodos e os atribuimos as variaveis, e criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
+- Na classe JogoObstaculo criamos variaveis que atribuimos a os atributos da classe Obstaculo, e variaveis que herdavem da classe Obstaculo, depois atribuimos os valores para cada variavel e como ela funcionariam para as variaveis que herdavam da classe Obstaculo, no Uptade chamamos os metodos e os atribuimos as variaveis, e criamos uma metodo para atribuir a tag a string nome e Objeto 3d para atribuir para a variavel objeto. chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/ca343c8b-f337-4d2c-8173-b6fc90b6069a)
 
 ![image](https://github.com/user-attachments/assets/357473bc-5bb9-48b8-b044-47a683f7ca68)
 
 ![image](https://github.com/user-attachments/assets/b5a65cf2-f60b-4fdd-936e-71dc7ebe01fa)
 
-<br> criamos a classe colisão e colisãoVitoria para caso os obstaculos tocarem no jogador, verem se ele tem a tag jogador, caso sim, o jogo reinicia, e no colisãoVitoria caso seja verdade ele muda a cena para a cena de vitoria 
+- Criamos a classe colisão e colisãoVitoria para caso os obstaculos tocarem no jogador, verem se ele tem a tag jogador, caso sim, o jogo reinicia, e no colisãoVitoria caso seja verdade ele muda a cena para a cena de vitoria 
 ![image](https://github.com/user-attachments/assets/25cc4377-b62d-410d-b694-4673d099a493)
 
 ![image](https://github.com/user-attachments/assets/ebee707f-8aee-42b7-ab48-7eb44619ef7a)
 
-<br> cria uma classe feita para tocar a musics em loop durante o jogo
+- Cria uma classe feita para tocar a musics em loop durante o jogo
 ![image](https://github.com/user-attachments/assets/3135dbf0-1508-43d8-a1f6-45df7304250b)
 
 
