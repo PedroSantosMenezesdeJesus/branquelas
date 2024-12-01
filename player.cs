@@ -35,7 +35,7 @@ public class player
 
         if (Input.GetKey(KeyCode.W))
         {
-            move.z = -0.1f;
+            move.z = -0.12f;
             return move;
         }
 

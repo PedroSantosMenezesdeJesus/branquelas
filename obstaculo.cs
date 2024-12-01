@@ -23,25 +23,29 @@ public class obstaculo
 
     public Vector3 MovimentObstacle1(Vector3 move)
     {
+        move.Set(0, 0, 0);
         move.z = 0.01f;
         return move;
     }
 
     public Vector3 MovimentObstacle2(Vector3 move)
     {
-        move.z = -0.0001f;
+        move.Set(0, 0, 0);
+        move.z = -0.01f;
         return move;
     }
 
     public Vector3 MovimentObstacle3(Vector3 move)
     {
-        move.x = 0.0000000001f;
+        move.Set(0, 0, 0);
+        move.x = 0.00000000001f;
         return move;
     }
 
     public Vector3 MovimentObstacle4(Vector3 move)
     {
-        move.z = 0.00000000001f;
+        move.Set(0, 0, 0);
+        move.z = 0.00000001f;
         return move;
     }
 }
