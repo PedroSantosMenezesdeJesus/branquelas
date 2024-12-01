@@ -103,11 +103,11 @@ Lowpoly Dinner Table
 <h3>video do jogo <h3>
 [link](https://drive.google.com/file/d/1glqpTzwGarvE6oZruqga1ppyKNdGWTkr/view?usp=sharing)
 
-Nosso Jogo
+<h3>Nosso Jogo <h3>
 [link](https://drive.google.com/file/d/1J1WHvFNGHTvmPVexPrZ8eObi6xjUDIkN/view?usp=drivesdk)
 
 <h3> o que cada um fez</h3>
 
-Pedro: fez a parte de programação, o video, os diagramas, o cenario com auxílio  e fez a analise do filme com auxílio.
+- Pedro: fez a parte de programação, o video, os diagramas, o cenario com auxílio  e fez a analise do filme com auxílio.
 
-kevin: fez a parte artistica, buscou os assets, ajudou na criação do cenário e o repositorio, fez os esboços ajudou na análise do filme.
+- Kevin: fez a parte artistica, buscou os assets, ajudou na criação do cenário e o repositorio, fez os esboços ajudou na análise do filme.
