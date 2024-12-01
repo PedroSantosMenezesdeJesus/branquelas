@@ -55,13 +55,14 @@ A Thousand Miles - Vanessa Carlton
 
 ![image](https://github.com/user-attachments/assets/357473bc-5bb9-48b8-b044-47a683f7ca68)
 
-<br> a
 ![image](https://github.com/user-attachments/assets/b5a65cf2-f60b-4fdd-936e-71dc7ebe01fa)
 
+<br> criamos a classe colisão e colisãoVitoria para caso os obstaculos tocarem no jogador, verem se ele tem a tag jogador, caso sim, o jogo reinicia, e no colisãoVitoria caso seja verdade ele muda a cena para a cena de vitoria 
 ![image](https://github.com/user-attachments/assets/25cc4377-b62d-410d-b694-4673d099a493)
 
 ![image](https://github.com/user-attachments/assets/ebee707f-8aee-42b7-ab48-7eb44619ef7a)
 
+<br> cria uma classe feita para tocar a musics em loop durantee o jogo
 ![image](https://github.com/user-attachments/assets/3135dbf0-1508-43d8-a1f6-45df7304250b)
 
 <h3>Assets usados</h3>
