@@ -36,6 +36,8 @@ esboço dos personagens
 
 ![image](https://github.com/user-attachments/assets/a76bf2df-8206-4e4b-8ddc-bc5daeb05092)
 
+![image](https://github.com/user-attachments/assets/64d0924b-9967-4954-adf9-2ef08d2072de)
+
 esboço da cena
 
 ![image](https://github.com/user-attachments/assets/28cbffb5-0f8b-40ec-8c21-aed0ab383083)
