@@ -108,6 +108,6 @@ Nosso Jogo
 
 <h3> o que cada um fez</h3>
 
-Pedro: fez a parte de programação, o video, os diagramas, o cenario e fez a analise do filme
+Pedro: fez a parte de programação, o video, os diagramas, o cenario com auxílio  e fez a analise do filme com auxílio 
 
-kevin: fez a parte artistica, buscou os assets, ajudou no cenario e o repositorio
+kevin: fez a parte artistica, buscou os assets, ajudou na criação do cenário e o repositorio, fez os esboços ajudou na análise do filme
