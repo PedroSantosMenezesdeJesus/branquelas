@@ -66,6 +66,15 @@ A Thousand Miles - Vanessa Carlton
 <br> cria uma classe feita para tocar a musics em loop durantee o jogo
 ![image](https://github.com/user-attachments/assets/3135dbf0-1508-43d8-a1f6-45df7304250b)
 
+
+<h3>Diagrama velhos/h3>
+
+![image](https://github.com/user-attachments/assets/f567b11d-7e8f-4afe-9650-a09beb699c5a)
+
+<h3>Diagrama novo/h3>
+
+
+
 <h3>Assets usados</h3>
 
 Adventure Female (Free)
