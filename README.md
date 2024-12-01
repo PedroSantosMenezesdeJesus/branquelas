@@ -25,7 +25,7 @@ A proposta da nossa cena é fazer o player controlando o carro chegar ao restaur
 Você como Latrell fez uma reserva em um restaurante e está levando uma companhia e não quer deixá-la esperando assim entrando no carro e dirijindo ao som de "A Thousand a Miles" até o restaurante, tendo que fazer desvios pois o caminho original está interditado.
 
 - Cenário:<Br>
-A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, várias ruas.
+A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvores, tendo diferentes caminhos para seguir só que por conta de acidentes eles estão interditados.
 
 - Música:<Br>
 A Thousand Miles - Vanessa Carlton
