@@ -35,8 +35,29 @@ A Thousand Miles - Vanessa Carlton
 
 <h3>Explicação do Código</h3>
 
-[codigo classe player](![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
+![image](https://github.com/user-attachments/assets/9ad7b4f8-c4e0-4362-85af-a55583916652)
 
+![image](https://github.com/user-attachments/assets/06f02246-6789-4480-862c-328699bb38f3)
+
+![image](https://github.com/user-attachments/assets/906e37ad-f947-4f0d-b053-8eda3a9a0d88)
+
+![image](https://github.com/user-attachments/assets/a0397699-17d9-4bca-b7c9-b5412cbace4e)
+
+![image](https://github.com/user-attachments/assets/19a1e172-2e82-49dd-b733-9b8a8deb9574)
+
+![image](https://github.com/user-attachments/assets/8c86aeaf-7a3f-4627-99e0-bf7fe5a7e643)
+
+![image](https://github.com/user-attachments/assets/ca343c8b-f337-4d2c-8173-b6fc90b6069a)
+
+![image](https://github.com/user-attachments/assets/357473bc-5bb9-48b8-b044-47a683f7ca68)
+
+![image](https://github.com/user-attachments/assets/b5a65cf2-f60b-4fdd-936e-71dc7ebe01fa)
+
+![image](https://github.com/user-attachments/assets/25cc4377-b62d-410d-b694-4673d099a493)
+
+![image](https://github.com/user-attachments/assets/ebee707f-8aee-42b7-ab48-7eb44619ef7a)
+
+![image](https://github.com/user-attachments/assets/3135dbf0-1508-43d8-a1f6-45df7304250b)
 
 <h3>Assets usados</h3>
 
