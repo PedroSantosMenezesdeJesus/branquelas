@@ -49,7 +49,7 @@ A Thousand Miles - Vanessa Carlton
 
 ![image](https://github.com/user-attachments/assets/06f02246-6789-4480-862c-328699bb38f3)
 
-- Criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variáveis que comrespondem aos atributos da classe Player, e uma variável que herdava do Player, chamamos as variáveis para colocarmos valores nelas e atribuímos cada variálvel para seu atributo comrespondente, no Uptade chamamos os métodos e os atribuímos as variáveis. Criamos um método para atribuir a tag a string nome e Objeto 3d para atribuir para a variável objeto. Chamando assim o objeto. 
+- Criamos a classe jogo atrelada a um MonoBehaviour para interagir com o carro, criamos variáveis que correspondem aos atributos da classe Player, e uma variável que herdava do Player, chamamos as variáveis para colocarmos valores nelas e atribuímos cada variável para seu atributo correspondente, no Uptade chamamos os métodos e os atribuímos as variáveis. Criamos um método para atribuir a tag a string nome e Objeto 3d para atribuir para a variável objeto. Chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/906e37ad-f947-4f0d-b053-8eda3a9a0d88)
 
 ![image](https://github.com/user-attachments/assets/a0397699-17d9-4bca-b7c9-b5412cbace4e)
@@ -59,7 +59,7 @@ A Thousand Miles - Vanessa Carlton
 
 ![image](https://github.com/user-attachments/assets/8c86aeaf-7a3f-4627-99e0-bf7fe5a7e643)
 
-- Na classe JogoObstaculo criamos variáveis que atribuímos aos atributos da classe Obstaculo, e variáveis que herdavem da classe Obstaculo, depois atribuímos os valores para cada variável e como elas funcionarão para as variáveis que herdavam da classe Obstaculo, no Uptade chamamos os métodos e os atribuímos as variáveis, e criamos um método para atribuir a tag a string nome e Objeto 3d para atribuir para a variável objeto. Chamando assim o objeto. 
+- Na classe JogoObstaculo criamos variáveis que atribuímos aos atributos da classe Obstaculo, e variáveis que herdavam da classe Obstaculo, depois atribuímos os valores para cada variável e como elas funcionarão para as variáveis que herdavam da classe Obstaculo, no Uptade chamamos os métodos e os atribuímos as variáveis, e criamos um método para atribuir a tag a string nome e Objeto 3d para atribuir para a variável objeto. Chamando assim o objeto. 
 ![image](https://github.com/user-attachments/assets/ca343c8b-f337-4d2c-8173-b6fc90b6069a)
 
 ![image](https://github.com/user-attachments/assets/357473bc-5bb9-48b8-b044-47a683f7ca68)
