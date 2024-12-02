@@ -15,7 +15,8 @@ Possui muitas cores vividas para simbolizar a vida de patricinha, outra cor pres
 
 - Protagonistas:<Br>
 Kevin e Marcus Coperland: ambos são atrapalhados, mas são dedicados ao seu trabalho, Kevin cria os planos malucos enquanto Marcus é mais pé no chão.
-Latrell: Possui uma personalidade forte, muito determinado para conseguir seu amor, tenta seduzir seu amor muitas vezes, é romântico, personagem mais humorístico do filme.
+
+- Latrell: Possui uma personalidade forte, muito determinado para conseguir seu amor, tenta seduzir seu amor muitas vezes, é romântico, personagem mais humorístico do filme.
 
 - Proposta da cena:<br>
 A proposta da nossa cena é fazer o player controlando o carro chegar ao restaurante, tendo que descobrir o caminho correto e desviando de carros pelo caminho, com ao fundo tocando a música "A Thousand Miles", os personagens envolvidos são Latrell e Marcus disfarçado, o player movimenta o carro com as teclas W, A, S, D que movimentam o carro para frente, para trás, direita e esquerda
