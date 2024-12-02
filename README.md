@@ -103,7 +103,7 @@ SimplePoly City - Low Poly Assets
 Lowpoly Dinner Table
 [link](https://assetstore.unity.com/packages/3d/environments/fantasy/lowpoly-dinner-table-55180)
 
-<h3>video do jogo <h3>
+<h3>Video do jogo <h3>
 [link](https://drive.google.com/file/d/1glqpTzwGarvE6oZruqga1ppyKNdGWTkr/view?usp=sharing)
 
 <h3>Nosso Jogo <h3>
