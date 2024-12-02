@@ -108,7 +108,7 @@ Lowpoly Dinner Table
 <h3>Nosso Jogo <h3>
 [link](https://drive.google.com/file/d/1J1WHvFNGHTvmPVexPrZ8eObi6xjUDIkN/view?usp=drivesdk)
 
-<h3> O que cada Integrante fez</h3>
+<h3> O que cada Integrante Fez</h3>
 
 - Pedro: fez a parte de programação, o video, os diagramas, o cenário com auxílio, a análise do filme com auxílio e auxíliou no repositório.
 
