@@ -110,6 +110,6 @@ Lowpoly Dinner Table
 
 <h3> O que cada Integrante Fez</h3>
 
-- Pedro: fez a parte de programação, o video, os diagramas, o cenário com auxílio, a análise do filme com auxílio e auxíliou no repositório.
+- Pedro: fez a parte de programação, o video, os diagramas, o cenário com auxílio, a análise do filme com auxílio e auxiliou no repositório.
 
 - Kevin: fez a parte artística, buscou os assets, ajudou na criação do cenário e o repositório, fez os esboços ajudou na análise do filme, e fez a correção ortográfica e gramatical do texto.
