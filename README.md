@@ -42,6 +42,8 @@ A Thousand Miles - Vanessa Carlton
 
 ![image](https://github.com/user-attachments/assets/28cbffb5-0f8b-40ec-8c21-aed0ab383083)
 
+![image](https://github.com/user-attachments/assets/2ac6d26a-9556-4c96-8e49-8f41c8f3b086)
+
 <h3>Explicação do Código</h3>
 
 - Criamos a classe player, com os atributos de Vector3 Mover, Vector3 Girar, GameObject Objeto e Sting Nome, depois atribuímos a um constructor e criamos os métodos de movimento e rotação
