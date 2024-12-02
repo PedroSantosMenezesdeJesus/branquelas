@@ -31,8 +31,6 @@ A cena se passa em uma cidade grande cheia de lojas, prédios, com várias árvo
 - Música:<br>
 A Thousand Miles - Vanessa Carlton
 
-<h3>Proposta da Cena</h3>
-
 - esboço dos personagens:<br>
 
 ![image](https://github.com/user-attachments/assets/a76bf2df-8206-4e4b-8ddc-bc5daeb05092)
